@@ -1,0 +1,28 @@
+.row {
+    
+    display: flex;
+}
+
+.column {
+    flex: 50%;
+    position: relative; 
+    margin-top: 90px;
+}
+
+#main {
+
+    position: relative; 
+    margin-top: 25px;
+    font-family:Arial, Helvetica, sans-serif;
+    display: flex;
+  
+}
+
+.column__jheison {
+    width: 30vw;
+}
+
+#bio {
+    margin-left: 30px;
+    margin-right: 30px;
+}

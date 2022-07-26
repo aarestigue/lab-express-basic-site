@@ -1,0 +1,14 @@
+img {
+    width: 500px;
+}
+
+.row {
+    
+    display: flex;
+}
+
+.column {
+    flex: 50%;
+    position: relative; 
+    margin-top: 90px;
+}

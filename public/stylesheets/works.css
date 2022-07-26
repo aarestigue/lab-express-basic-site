@@ -1,0 +1,22 @@
+body {
+    margin: 0;
+    font-family:Arial, Helvetica, sans-serif;
+}
+
+.row {
+    margin-top: 50px;
+    margin-left:5vw;
+    width: 90vw;
+    display: flex;
+    
+
+}
+
+.column {
+    flex: 50%;
+    position: relative; 
+}
+
+.column__preview {
+    width:40vw;
+}
